@@ -6,7 +6,8 @@ namespace dotnet_core_flash
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Math.Abs(-4));
+            String message = "This is my very first C# program ever.";
+            Console.WriteLine(message);
         }
     }
 }

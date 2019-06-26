@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shawn\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/ryan-ta/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\dotnet-core-flash\\dotnet-core-flash.csproj",
+      "projectUniqueName": "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/dotnet-core-flash.csproj",
       "projectName": "dotnet-core-flash",
-      "projectPath": "D:\\Project\\dotnet-core-flash\\dotnet-core-flash.csproj",
-      "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\dotnet-core-flash\\obj\\",
+      "projectPath": "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/dotnet-core-flash.csproj",
+      "packagesPath": "/home/ryan-ta/.nuget/packages/",
+      "outputPath": "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ryan-ta/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

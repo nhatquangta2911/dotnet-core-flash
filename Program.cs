@@ -16,6 +16,9 @@ namespace VeryFirstNamespace
             System.Console.WriteLine(group.Id);
             System.Console.WriteLine(group.Name);
             System.Console.WriteLine(group.Posts[0].Content);
+
+            Calculator.Add(29, 11, 19, 97);
+
         }
     }
 }

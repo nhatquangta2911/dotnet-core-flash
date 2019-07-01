@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/dotnet-core-flash.csproj": {}
+    "/home/ryan-ta/Desktop/Study/ShawnProject/VeryFirstNamespace/dotnet-core-flash.csproj": {}
   },
   "projects": {
-    "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/dotnet-core-flash.csproj": {
+    "/home/ryan-ta/Desktop/Study/ShawnProject/VeryFirstNamespace/dotnet-core-flash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/dotnet-core-flash.csproj",
+        "projectUniqueName": "/home/ryan-ta/Desktop/Study/ShawnProject/VeryFirstNamespace/dotnet-core-flash.csproj",
         "projectName": "dotnet-core-flash",
-        "projectPath": "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/dotnet-core-flash.csproj",
+        "projectPath": "/home/ryan-ta/Desktop/Study/ShawnProject/VeryFirstNamespace/dotnet-core-flash.csproj",
         "packagesPath": "/home/ryan-ta/.nuget/packages/",
-        "outputPath": "/home/ryan-ta/Desktop/Study/ShawnProject/dotnet-core-flash/obj/",
+        "outputPath": "/home/ryan-ta/Desktop/Study/ShawnProject/VeryFirstNamespace/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

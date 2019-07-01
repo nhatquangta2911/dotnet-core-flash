@@ -4,18 +4,11 @@ namespace VeryFirstNamespace
 {
     public class Person
     {
-        private DateTime _birthdate;
+        public DateTime Birthdate { get; set; }
         
-        public void SetBirthdate(DateTime birthdate)
-        {
-            // LOGIC
-            _birthdate = birthdate;
-        }
-
-        public DateTime GetBirthdate()
-        {
-            return _birthdate;
-        }
+        
+        // Property
+       
 
     }
 }

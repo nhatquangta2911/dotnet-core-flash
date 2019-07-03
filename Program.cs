@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace VeryFirstNamespace
 {
@@ -6,8 +7,10 @@ namespace VeryFirstNamespace
     {
         static void Main(string[] args)
         {
-           var dbMigrator = new DBMigrator(new ConsoleLogger());
-           dbMigrator.Migrate();
+            var encoder = new VideoEncoder();
+            encoder.RegisterNotificationChannel(new MailNotificationChannel());
+            encoder.RegisterNotificationChannel(new SmsNotificationChannel());
+            encoder.Encode(new Video());
         }
     }
 }
